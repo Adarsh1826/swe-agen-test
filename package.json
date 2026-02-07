@@ -1,9 +1,10 @@
 {
-  "name": "test",
+  "name": "swe-agent-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic project for swe-agent to demonstrate server setup.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
